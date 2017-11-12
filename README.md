@@ -32,8 +32,9 @@ The project was a good learning exercise for me, and hopefully, is a good refere
 - [Decision Trees](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [Logistic Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
- [Feature Selection](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) &
-[Learn Data Science with Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+- [Feature Selection](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+- [Learn Data Science with Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) 
+- [Purpose of the loan & applicant income: important data to be embeded in the model and reduce bias](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/)
 
 ## Requirements
 To run the project, it is required that the following are installed in your system:
